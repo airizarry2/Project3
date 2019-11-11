@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+
+
+
+body {
+  background-color: LightCyan;
+}
+h1 {
+  color: DarkSlateGrey;
+}
+h2 {
+  color: LightSeaGreen;
+}
+h3 {
+  color: LightSlateGrey;
+}
+h4 {
+  color: SlateGrey;
+}
+
+p {
+  color: black;
+  font-family: "Bookman Old Style";
+  margin: 0.5%;
+}
+
+li {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+img {
+	max-width: 75%;
+	max-height: 75%;
+}
+
+em {
+	color: black;
+}
+
+.resume p,h1,h2,h3,h4,ul {
+    text-align: left;
+	
+}
+
+.home{
+width: 2000px;
+padding: 0px;
+}
+
+.resume {
+  width: 70%;
+  height: 70%;
+	
+}
+
+
+
+
+.facts {
+	text-align: left;
+}
+
+.home img{
+	border: 5px double #666699;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+
+.nav {
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
