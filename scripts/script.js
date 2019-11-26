@@ -23,3 +23,4 @@ function park() {
         });
 	
 }
+window.addEventListener('load', Park)
