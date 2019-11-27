@@ -96,8 +96,13 @@ padding: 0px;
 }
 
 
-.maps {
-	width:100%;
+
+
+
+#googleMap{
+	border: 5px double #666699;
+	display: block;
+	width:700px;
 	height:500px;
 }
 
@@ -145,4 +150,5 @@ padding: 0px;
 .nav {
   text-align: center;
 }
+
 
