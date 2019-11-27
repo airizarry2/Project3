@@ -32,4 +32,11 @@ function park() {
 
 
 }
+function slider (){
+
+
+
+	
+}
+
 window.addEventListener('load', park);
